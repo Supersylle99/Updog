@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+header {
+    color: #ededed;
+    font-family: 'Orbitron', sans-serif;
+    font-size:  36px;
+    text-align: center;
+    text-shadow: -1px 1px 0 #ffe979,
+	1px 1px 0 #ad3c19,
+	1px -1px 0 #c5d1ae,
+	-1px -1px 0 #d86425;
+}
+
+a{
+    color: #ededed;
+    font-family: 'Orbitron', sans-serif;
+    font-size:  20px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: -2px 2px 0 #41ba45,
+	2px 2px 0 #c63d2b,
+	2px -2px 0 #42afac,
+	-2px -2px 0 #c6c23f;
+}
+
+a:hover{
+    color: orange;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+li {
+    margin-right: 100px;
+}
+
+.first {
+    background-image: url(C:/Users/sylle/Downloads/OIG.jpg);
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: flex-start;
+}
+
+.second {
+    background-image: ;
+}
+
+.third {
+    background-image: ;
+}
+
+.fourth {
+    background-image: ;
+}
+
+section{
+    
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
